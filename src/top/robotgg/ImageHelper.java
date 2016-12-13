@@ -110,7 +110,7 @@ public class ImageHelper {
 			}
 		}
 		out.close();
-		System.out.println("一共有 ：" + sz +" 条数据");
+		System.out.println("一共有 ：" + sz + " 条数据");
 		return tmpNode;
 	}
 	
